@@ -2,6 +2,8 @@
 
 This project was developed with the intention of learning to manipulate the Angular Cli, Firebase and Material.
 
+The project is in Surge through the link: thiago-angular-firebase-material-tasks.surge.sh
+
 To play it just follow the steps below:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
